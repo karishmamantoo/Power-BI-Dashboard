@@ -1,4 +1,4 @@
-                                                                              TITLE: E-COMMERCE SALES DASHBOARD DESCRIPTION
+                                                              TITLE: E-COMMERCE SALES DASHBOARD DESCRIPTION
 
 The Power BI dashboard presents a comprehensive view of e-commerce sales profits over the year.
 
